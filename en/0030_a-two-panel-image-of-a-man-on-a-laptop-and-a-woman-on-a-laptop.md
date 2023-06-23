@@ -26,4 +26,4 @@ A man looking down at a dog and a woman standing near them with her arms crossed
 * Text: Aranya
 * Illustration: Sunniva Høiby-Øiset
 * Translation: Stacey Saunders
-* Language: alt-text
+* Language: en

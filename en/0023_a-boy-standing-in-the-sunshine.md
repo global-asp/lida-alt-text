@@ -26,4 +26,4 @@ Four children swimming in the ocean in the sunshine.
 * Text: Espen Stranger-Johannessen
 * Illustration: Tuva Akselsen Sandersen, Josefine Madsen
 * Translation: Stacey Saunders
-* Language: alt-text
+* Language: en

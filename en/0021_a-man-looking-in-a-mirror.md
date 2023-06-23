@@ -26,4 +26,4 @@ A man buying a pair of trousers.
 * Text: Espen Stranger-Johannessen
 * Illustration: Sara Sahar Haidari
 * Translation: Stacey Saunders
-* Language: alt-text
+* Language: en

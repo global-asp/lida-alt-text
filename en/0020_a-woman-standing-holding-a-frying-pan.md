@@ -29,4 +29,4 @@ A woman laughing.
 * Text: Espen Stranger-Johannessen
 * Illustration: Selma Buer Hanstad
 * Translation: Stacey Saunders
-* Language: alt-text
+* Language: en

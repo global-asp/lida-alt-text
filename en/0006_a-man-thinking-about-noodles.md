@@ -47,4 +47,4 @@ Two men paying a waiter.
 * Text: Espen Stranger-Johannessen
 * Illustration: Aakanee
 * Translation: Stacey Saunders
-* Language: alt-text
+* Language: en

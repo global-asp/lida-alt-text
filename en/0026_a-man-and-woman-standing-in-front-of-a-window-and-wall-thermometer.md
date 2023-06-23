@@ -23,4 +23,4 @@ A man standing in a house looking through the window at the stormy weather.
 * Text: Espen Stranger-Johannessen
 * Illustration: Ognjen Drageljević
 * Translation: Stacey Saunders
-* Language: alt-text
+* Language: en

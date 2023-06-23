@@ -38,4 +38,4 @@ A man tidying a living room.
 * Text: Espen Stranger-Johannessen
 * Illustration: Aakanee
 * Translation: Stacey Saunders
-* Language: alt-text
+* Language: en

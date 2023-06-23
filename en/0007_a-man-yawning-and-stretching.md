@@ -38,4 +38,4 @@ A man sleeping in bed dreaming.
 * Text: Espen Stranger-Johannessen
 * Illustration: Aakanee
 * Translation: Stacey Saunders
-* Language: alt-text
+* Language: en

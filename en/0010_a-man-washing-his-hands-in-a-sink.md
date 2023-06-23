@@ -32,4 +32,4 @@ A man cutting his fingernails.
 * Text: Espen Stranger-Johannessen
 * Illustration: Aakanee
 * Translation: Stacey Saunders
-* Language: alt-text
+* Language: en

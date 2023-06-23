@@ -32,4 +32,4 @@ A woman talking to another woman.
 * Text: Espen Stranger-Johannessen
 * Illustration: Billie Cejka Risnes
 * Translation: Stacey Saunders
-* Language: alt-text
+* Language: en

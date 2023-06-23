@@ -29,4 +29,4 @@ Three men standing with their arms in the air and smiling in front of a picture 
 * Text: LIDA Italia
 * Illustration: Billie Cejka Risnes
 * Translation: Stacey Saunders
-* Language: alt-text
+* Language: en

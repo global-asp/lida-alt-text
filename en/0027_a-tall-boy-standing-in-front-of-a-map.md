@@ -23,4 +23,4 @@ A man showing a boy how to play basketball.
 * Text: LIDA Portugal
 * Illustration: Sunniva Høiby-Øiset
 * Translation: Stacey Saunders
-* Language: alt-text
+* Language: en

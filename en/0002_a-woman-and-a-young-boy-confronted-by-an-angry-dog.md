@@ -35,4 +35,4 @@ A two-panel image of a football player trying to score but failing.
 * Text: Espen Stranger-Johannessen
 * Illustration: Aakanee
 * Translation: Espen
-* Language: alt-text
+* Language: en

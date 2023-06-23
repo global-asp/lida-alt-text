@@ -32,4 +32,4 @@ Several images of people doing various activities, including writing, sleeping, 
 * Text: Espen Stranger-Johannessen
 * Illustration: Frida Sofie Schønsberg
 * Translation: Stacey Saunders
-* Language: alt-text
+* Language: en

@@ -35,4 +35,4 @@ A happy-looking woman.
 * Text: Espen Stranger-Johannessen
 * Illustration: Sunniva Høiby-Øiset
 * Translation: Stacey Saunders
-* Language: alt-text
+* Language: en

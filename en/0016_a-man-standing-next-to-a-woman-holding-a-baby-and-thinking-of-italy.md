@@ -32,4 +32,4 @@ A two-panel image of two families.
 * Text: LIDA Norge
 * Illustration: Sara Dorthea Johannesen
 * Translation: Stacey Saunders
-* Language: alt-text
+* Language: en

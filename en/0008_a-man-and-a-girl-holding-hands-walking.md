@@ -47,4 +47,4 @@ A man and a girl leaving a café.
 * Text: Espen Stranger-Johannessen
 * Illustration: Aakanee
 * Translation: Stacey Saunders
-* Language: alt-text
+* Language: en

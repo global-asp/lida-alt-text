@@ -50,4 +50,4 @@ A two-panel image of a man pointing to people in a photograph.
 * Text: Espen Stranger-Johannessen
 * Illustration: Aakanee
 * Translation: Stacey Saunders
-* Language: alt-text
+* Language: en

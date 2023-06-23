@@ -50,4 +50,4 @@ A man walking on crutches being helped by a man and woman.
 * Text: Espen Stranger-Johannessen
 * Illustration: Aakanee
 * Translation: Stacey Saunders
-* Language: alt-text
+* Language: en

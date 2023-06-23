@@ -38,4 +38,4 @@ Two women waving and getting on their scooters.
 * Text: Espen Stranger-Johannessen
 * Illustration: Aakanee
 * Translation: Stacey Saunders
-* Language: alt-text
+* Language: en

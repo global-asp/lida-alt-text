@@ -35,4 +35,4 @@ A man waving as he leaves.
 * Text: Espen Stranger-Johannessen
 * Illustration: Sara Rumen Krotev
 * Translation: Stacey Saunders
-* Language: alt-text
+* Language: en

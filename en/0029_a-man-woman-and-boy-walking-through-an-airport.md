@@ -29,4 +29,4 @@ A woman in a library thinking about a family.
 * Text: Aamiina
 * Illustration: Julie Cornelia van Walsum
 * Translation: Stacey Saunders
-* Language: alt-text
+* Language: en

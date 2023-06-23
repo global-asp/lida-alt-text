@@ -32,4 +32,4 @@ A man teaching a girl sitting at a desk.
 * Text: LIDA Italia
 * Illustration: Vilius Aistis Vilimas
 * Translation: Stacey Saunders
-* Language: alt-text
+* Language: en

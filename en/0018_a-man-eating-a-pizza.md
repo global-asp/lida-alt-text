@@ -26,4 +26,4 @@ A man and woman cooking.
 * Text: Espen Stranger-Johannessen
 * Illustration: Sara Sahar Haidari
 * Translation: Stacey Saunders
-* Language: alt-text
+* Language: en

@@ -26,4 +26,4 @@ A boy and two girls dancing.
 * Text: Espen Stranger-Johannessen
 * Illustration: Sara Rumen Krotev
 * Translation: Stacey Saunders
-* Language: alt-text
+* Language: en

@@ -26,4 +26,4 @@ A woman holding a girl in her arms and thinking of birds tweeting.
 * Text: LIDA Portugal
 * Illustration: Vilius Aistis Vilimas
 * Translation: Stacey Saunders
-* Language: alt-text
+* Language: en

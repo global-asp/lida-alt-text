@@ -26,4 +26,4 @@ A girl holding up her two fingers.
 * Text: Espen Stranger-Johannessen
 * Illustration: Vilius Aistis Vilimas
 * Translation: Stacey Saunders
-* Language: alt-text
+* Language: en
