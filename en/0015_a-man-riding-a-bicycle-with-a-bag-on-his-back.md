@@ -22,7 +22,7 @@ A news reporter standing in front of a bicycle accident and ambulance.
 People sitting in a meeting.
 
 ##
-Three men standing with theirs arms in the air and smiling in front of a picture of the world.
+Three men standing with their arms in the air and smiling in front of a picture of the world.
 
 ##
 * License: CC BY

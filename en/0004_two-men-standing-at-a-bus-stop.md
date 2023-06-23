@@ -31,7 +31,7 @@ A woman opening the door to a man.
 A man standing outside and a woman standing in the doorway pointing inside.
 
 ##
-A two-panel image of a man falling into another man at a bus stop.
+A two-panel image of a man bumping into another man at a bus stop.
 
 ##
 Two men standing at a bus stop talking to each other.

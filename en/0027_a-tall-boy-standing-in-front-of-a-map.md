@@ -1,7 +1,7 @@
 # A tall boy standing in front of a map.
 
 ##
-A tall boy standing in front of a map.
+A tall boy standing in front of a map of Angola.
 
 ##
 A tall boy holding hands with a woman in an airport.

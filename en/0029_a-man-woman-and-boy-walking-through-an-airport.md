@@ -7,7 +7,7 @@ A man, woman and boy walking through an airport.
 A woman hugging children.
 
 ##
-A man, woman and boy clothes shopping.
+A man, woman and boy shopping for clothes.
 
 ##
 Three women sitting at desks.

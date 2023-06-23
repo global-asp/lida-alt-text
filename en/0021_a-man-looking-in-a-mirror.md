@@ -4,7 +4,7 @@
 A man looking in a mirror.
 
 ##
-A man walking to the shopping mall.
+A man walking to a shopping mall.
 
 ##
 A man in a shopping mall looking confused.

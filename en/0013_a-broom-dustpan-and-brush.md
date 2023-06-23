@@ -19,7 +19,7 @@ Someone putting a new bag into the bin and a bag of rubbish next to it.
 A man putting a rubbish bag into a bin.
 
 ##
-Gloves, a sponge and spray cleaner.
+Gloves, a sponge, and spray cleaner.
 
 ##
 Someone scrubbing the floor with a sponge.

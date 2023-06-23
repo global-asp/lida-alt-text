@@ -19,10 +19,10 @@ Two men walking to a table.
 Two men sitting down at a table and one man with his hand up.
 
 ##
-Two men sitting at a table, speaking to the waiter standing next to them.
+Two men sitting at a table, speaking to a waiter standing next to them.
 
 ##
-Two men sitting at a table, speaking to the waiter standing next to them.
+Two men sitting at a table, speaking to a waiter standing next to them.
 
 ##
 Two glasses of water.
@@ -40,7 +40,7 @@ Two men eating noodles.
 A man drinking a glass of water.
 
 ##
-Two men paying the waiter.
+Two men paying a waiter.
 
 ##
 * License: CC BY-NC-SA

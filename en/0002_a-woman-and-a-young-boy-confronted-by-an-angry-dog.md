@@ -19,10 +19,10 @@ A woman holding a hand to her hurting head.
 A two-panel image of a man holding a hand to his stomach and thinking about a sandwich.
 
 ##
-A two-panel image of a man who working out with free weights and puts them down.
+A two-panel image of a man working out with free weights and putting them down.
 
 ##
-A two-panel image of a man sitting in a sofa yawning and thinking of a bed.
+A two-panel image of a man sitting on a sofa yawning and thinking of a bed.
 
 ##
 A two-panel image of a man in a desert thinking of a glass of water.

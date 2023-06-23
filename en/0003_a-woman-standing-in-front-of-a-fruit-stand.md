@@ -1,19 +1,19 @@
-# A woman standing in a supermarket.
+# A woman standing in front of a fruit stand.
 
 ##
-A two-panel image of a woman in a supermarket speaking to a man.
+A two-panel image of a woman in front of a fruit stand speaking to a man.
 
 ##
-A two-panel image of a woman in a supermarket asking a man for an avocado.
+A two-panel image of a woman in front of a fruit stand asking a man for a papaya.
 
 ##
 A man speaking to a woman who is sitting on a bench reading a book.
 
 ##
-A woman sitting on a bench speaking to a man stood up.
+A woman on a bench speaking to a standing man.
 
 ##
-A man pointing to his food is speaking to a woman.
+A man pointing to his food and speaking to a woman.
 
 ##
 A woman looking at a man’s food.

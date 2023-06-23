@@ -1,7 +1,7 @@
-# A man standing in front of a map.
+# A man standing in front of a map of Afghanistan.
 
 ##
-A man standing in front of a map.
+A man standing in front of a map of Afghanistan.
 
 ##
 A man and woman hugging and a man looking sad standing near them.
@@ -10,7 +10,7 @@ A man and woman hugging and a man looking sad standing near them.
 A man in the middle of a war scene and a tank firing in the distance.
 
 ##
-A man hiking thinking about food and bed.
+A man hiking thinking about food and a bed.
 
 ##
 A man and woman standing outside a house smiling and offering food.

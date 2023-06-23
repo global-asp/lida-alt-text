@@ -25,16 +25,16 @@ Two paramedics putting a man on a stretcher.
 Two paramedics carrying a man on a stretcher into an ambulance.
 
 ##
-An ambulance driving to the hospital.
+An ambulance in front of a hospital.
 
 ##
-A nurse pushing a man on a trolley in the hospital.
+A nurse pushing a man on a trolley in a hospital.
 
 ##
 Someone attaching a drip to a hand.
 
 ##
-A man lying in a hosptial bed.
+A man lying in a hospital bed.
 
 ##
 Two doctors operating on a man's leg.

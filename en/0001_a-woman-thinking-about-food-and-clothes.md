@@ -25,10 +25,10 @@ A woman cooking in a restaurant.
 Someone typing on a laptop.
 
 ##
-A tired looking woman.
+A tired-looking woman.
 
 ##
-A happy looking woman.
+A happy-looking woman.
 
 ##
 * License: CC BY

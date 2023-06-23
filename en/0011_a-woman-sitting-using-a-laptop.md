@@ -19,7 +19,7 @@ Two women buying a bucket of popcorn.
 A man handing a woman two bottles and another woman holding a bucket of popcorn.
 
 ##
-Two women holding drinks and popcorn, and a man looking at their tickets.
+Two women holding bottles and popcorn, and a man looking at their tickets.
 
 ##
 Two women in a dark cinema looking for their seats.
