@@ -31,5 +31,5 @@ Un'immagine a due pannelli di due famiglie.
 * License: CC BY
 * Text: LIDA Norge
 * Illustration: Sara Dorthea Johannesen
-* Translation: Stacey Saunders
+* Translation: Andrea Ciasca Marra
 * Language: it

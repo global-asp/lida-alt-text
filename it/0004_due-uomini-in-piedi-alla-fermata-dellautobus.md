@@ -49,5 +49,5 @@ Un'immagine a due pannelli di un uomo che indica le persone in una fotografia.
 * License: CC BY-NC-SA
 * Text: Espen Stranger-Johannessen
 * Illustration: Aakanee
-* Translation: Stacey Saunders
+* Translation: Andrea Ciasca Marra
 * Language: it

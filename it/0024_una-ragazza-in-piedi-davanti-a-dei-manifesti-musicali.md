@@ -25,5 +25,5 @@ Un ragazzo e due ragazze che ballano.
 * License: CC BY
 * Text: Espen Stranger-Johannessen
 * Illustration: Sara Rumen Krotev
-* Translation: Stacey Saunders
+* Translation: Andrea Ciasca Marra
 * Language: it

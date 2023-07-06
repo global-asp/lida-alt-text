@@ -34,5 +34,5 @@ Una donna dall'aspetto felice.
 * License: CC BY
 * Text: Espen Stranger-Johannessen
 * Illustration: Sunniva Høiby-Øiset
-* Translation: Stacey Saunders
+* Translation: Andrea Ciasca Marra
 * Language: it

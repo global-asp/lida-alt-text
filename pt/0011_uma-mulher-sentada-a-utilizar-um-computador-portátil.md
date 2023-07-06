@@ -37,5 +37,5 @@ Duas mulheres a acenar e a subir para as suas scooters.
 * License: CC BY-NC-SA
 * Text: Espen Stranger-Johannessen
 * Illustration: Aakanee
-* Translation: Stacey Saunders
+* Translation: Elsa Guedes Teixeira, João Caramelo
 * Language: pt

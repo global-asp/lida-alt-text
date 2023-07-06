@@ -25,5 +25,5 @@ Uma mulher que segura uma menina nos braços e pensa em pássaros a chilrear.
 * License: CC BY
 * Text: LIDA Portugal
 * Illustration: Vilius Aistis Vilimas
-* Translation: Stacey Saunders
+* Translation: Elsa Guedes Teixeira, João Caramelo
 * Language: pt

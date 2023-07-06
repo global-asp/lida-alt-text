@@ -28,5 +28,5 @@ Um homem entrega uma mala de mão a uma mulher.
 * License: CC BY-NC-SA
 * Text: Espen Stranger-Johannessen
 * Illustration: Aakanee
-* Translation: Stacey Saunders
+* Translation: Elsa Guedes Teixeira, João Caramelo
 * Language: pt

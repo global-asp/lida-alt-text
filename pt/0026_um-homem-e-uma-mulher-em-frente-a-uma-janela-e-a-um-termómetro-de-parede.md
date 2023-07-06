@@ -22,5 +22,5 @@ Um homem de pé numa casa a olhar pela janela para o tempo tempestuoso.
 * License: CC BY
 * Text: Espen Stranger-Johannessen
 * Illustration: Ognjen Drageljević
-* Translation: Stacey Saunders
+* Translation: Elsa Guedes Teixeira, João Caramelo
 * Language: pt

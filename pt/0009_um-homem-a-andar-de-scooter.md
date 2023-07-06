@@ -49,5 +49,5 @@ Um homem a andar de muletas, ajudado por um homem e uma mulher.
 * License: CC BY-NC-SA
 * Text: Espen Stranger-Johannessen
 * Illustration: Aakanee
-* Translation: Stacey Saunders
+* Translation: Elsa Guedes Teixeira, João Caramelo
 * Language: pt

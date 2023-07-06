@@ -28,5 +28,5 @@ Una donna in biblioteca che pensa alla famiglia.
 * License: CC BY
 * Text: Aamiina
 * Illustration: Julie Cornelia van Walsum
-* Translation: Stacey Saunders
+* Translation: Andrea Ciasca Marra
 * Language: it

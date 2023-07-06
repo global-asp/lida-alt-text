@@ -46,5 +46,5 @@ Un uomo e una ragazza che escono da un bar.
 * License: CC BY-NC-SA
 * Text: Espen Stranger-Johannessen
 * Illustration: Aakanee
-* Translation: Stacey Saunders
+* Translation: Andrea Ciasca Marra
 * Language: it

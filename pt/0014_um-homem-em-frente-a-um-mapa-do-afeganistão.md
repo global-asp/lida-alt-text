@@ -31,5 +31,5 @@ Um homem a ensinar uma rapariga sentada numa secretária.
 * License: CC BY
 * Text: LIDA Italia
 * Illustration: Vilius Aistis Vilimas
-* Translation: Stacey Saunders
+* Translation: Elsa Guedes Teixeira, João Caramelo
 * Language: pt

@@ -25,5 +25,5 @@ Um homem a comprar um par de calças.
 * License: CC BY
 * Text: Espen Stranger-Johannessen
 * Illustration: Sara Sahar Haidari
-* Translation: Stacey Saunders
+* Translation: Elsa Guedes Teixeira, João Caramelo
 * Language: pt

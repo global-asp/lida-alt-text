@@ -34,5 +34,5 @@ Uma mulher com ar feliz.
 * License: CC BY
 * Text: Espen Stranger-Johannessen
 * Illustration: Sunniva Høiby-Øiset
-* Translation: Stacey Saunders
+* Translation: Elsa Guedes Teixeira, João Caramelo
 * Language: pt

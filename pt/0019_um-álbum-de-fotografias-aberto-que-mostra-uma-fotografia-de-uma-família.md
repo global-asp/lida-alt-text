@@ -25,5 +25,5 @@ Uma rapariga segurando os seus dois dedos.
 * License: CC BY
 * Text: Espen Stranger-Johannessen
 * Illustration: Vilius Aistis Vilimas
-* Translation: Stacey Saunders
+* Translation: Elsa Guedes Teixeira, João Caramelo
 * Language: pt

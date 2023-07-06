@@ -25,5 +25,5 @@ Un uomo che guarda un cane e una donna in piedi vicino a loro con le braccia inc
 * License: CC BY
 * Text: Aranya
 * Illustration: Sunniva Høiby-Øiset
-* Translation: Stacey Saunders
+* Translation: Andrea Ciasca Marra
 * Language: it

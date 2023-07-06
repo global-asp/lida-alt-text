@@ -25,5 +25,5 @@ Quattro bambini che nuotano nell'oceano sotto il sole.
 * License: CC BY
 * Text: Espen Stranger-Johannessen
 * Illustration: Tuva Akselsen Sandersen, Josefine Madsen
-* Translation: Stacey Saunders
+* Translation: Andrea Ciasca Marra
 * Language: it

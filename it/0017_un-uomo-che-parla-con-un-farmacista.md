@@ -34,5 +34,5 @@ Un uomo che saluta mentre se ne va.
 * License: CC BY
 * Text: Espen Stranger-Johannessen
 * Illustration: Sara Rumen Krotev
-* Translation: Stacey Saunders
+* Translation: Andrea Ciasca Marra
 * Language: it

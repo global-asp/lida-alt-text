@@ -25,5 +25,5 @@ Una donna che tiene in braccio una bambina e pensa agli uccelli che cinguettano.
 * License: CC BY
 * Text: LIDA Portugal
 * Illustration: Vilius Aistis Vilimas
-* Translation: Stacey Saunders
+* Translation: Andrea Ciasca Marra
 * Language: it

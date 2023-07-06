@@ -34,5 +34,5 @@ A two-panel image of a football player trying to score but failing.
 * License: CC BY-NC-SA
 * Text: Espen Stranger-Johannessen
 * Illustration: Aakanee
-* Translation: Espen
+* Translation: Stacey Saunders
 * Language: en

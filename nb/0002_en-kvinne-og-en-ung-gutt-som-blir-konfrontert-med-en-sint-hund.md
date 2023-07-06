@@ -34,5 +34,5 @@ Et topanelsbilde av en fotballspiller som prøver å score, men mislykkes.
 * License: CC BY-NC-SA
 * Text: Espen Stranger-Johannessen
 * Illustration: Aakanee
-* Translation: Espen
+* Translation: Espen Stranger-Johannessen
 * Language: nb

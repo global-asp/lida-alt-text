@@ -31,5 +31,5 @@ Un uomo che si taglia le unghie.
 * License: CC BY-NC-SA
 * Text: Espen Stranger-Johannessen
 * Illustration: Aakanee
-* Translation: Stacey Saunders
+* Translation: Andrea Ciasca Marra
 * Language: it

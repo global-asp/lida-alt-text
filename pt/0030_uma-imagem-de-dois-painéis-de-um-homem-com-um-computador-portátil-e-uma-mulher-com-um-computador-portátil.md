@@ -25,5 +25,5 @@ Um homem a olhar para um cão e uma mulher perto deles com os braços cruzados.
 * License: CC BY
 * Text: Aranya
 * Illustration: Sunniva Høiby-Øiset
-* Translation: Stacey Saunders
+* Translation: Elsa Guedes Teixeira, João Caramelo
 * Language: pt

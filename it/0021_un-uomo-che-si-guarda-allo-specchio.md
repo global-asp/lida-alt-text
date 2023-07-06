@@ -25,5 +25,5 @@ Un uomo che acquista un paio di pantaloni.
 * License: CC BY
 * Text: Espen Stranger-Johannessen
 * Illustration: Sara Sahar Haidari
-* Translation: Stacey Saunders
+* Translation: Andrea Ciasca Marra
 * Language: it

@@ -25,5 +25,5 @@ Una ragazza che alza due dita.
 * License: CC BY
 * Text: Espen Stranger-Johannessen
 * Illustration: Vilius Aistis Vilimas
-* Translation: Stacey Saunders
+* Translation: Andrea Ciasca Marra
 * Language: it

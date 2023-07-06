@@ -34,5 +34,5 @@ Uma imagem de dois painéis de um jogador de futebol a tentar marcar um golo mas
 * License: CC BY-NC-SA
 * Text: Espen Stranger-Johannessen
 * Illustration: Aakanee
-* Translation: Espen
+* Translation: Elsa Guedes Teixeira, João Caramelo
 * Language: pt

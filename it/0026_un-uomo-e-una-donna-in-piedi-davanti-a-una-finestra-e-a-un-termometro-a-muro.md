@@ -22,5 +22,5 @@ Un uomo in piedi in una casa che guarda attraverso la finestra il tempo burrasco
 * License: CC BY
 * Text: Espen Stranger-Johannessen
 * Illustration: Ognjen Drageljević
-* Translation: Stacey Saunders
+* Translation: Andrea Ciasca Marra
 * Language: it

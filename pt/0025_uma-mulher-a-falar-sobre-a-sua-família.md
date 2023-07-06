@@ -31,5 +31,5 @@ Uma mulher a falar com outra mulher.
 * License: CC BY
 * Text: Espen Stranger-Johannessen
 * Illustration: Billie Cejka Risnes
-* Translation: Stacey Saunders
+* Translation: Elsa Guedes Teixeira, João Caramelo
 * Language: pt

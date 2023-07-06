@@ -25,5 +25,5 @@ Quatro crianças a nadar no oceano ao sol.
 * License: CC BY
 * Text: Espen Stranger-Johannessen
 * Illustration: Tuva Akselsen Sandersen, Josefine Madsen
-* Translation: Stacey Saunders
+* Translation: Elsa Guedes Teixeira, João Caramelo
 * Language: pt

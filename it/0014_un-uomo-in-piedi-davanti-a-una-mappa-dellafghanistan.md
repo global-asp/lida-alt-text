@@ -31,5 +31,5 @@ Un uomo che insegna a una ragazza seduta alla scrivania.
 * License: CC BY
 * Text: LIDA Italia
 * Illustration: Vilius Aistis Vilimas
-* Translation: Stacey Saunders
+* Translation: Andrea Ciasca Marra
 * Language: it

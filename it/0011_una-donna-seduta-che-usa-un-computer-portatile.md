@@ -37,5 +37,5 @@ Due donne che salutano e salgono sui loro scooter.
 * License: CC BY-NC-SA
 * Text: Espen Stranger-Johannessen
 * Illustration: Aakanee
-* Translation: Stacey Saunders
+* Translation: Andrea Ciasca Marra
 * Language: it

@@ -28,5 +28,5 @@ Três homens de pé com os braços no ar e a sorrir em frente a uma imagem do mu
 * License: CC BY
 * Text: LIDA Italia
 * Illustration: Billie Cejka Risnes
-* Translation: Stacey Saunders
+* Translation: Elsa Guedes Teixeira, João Caramelo
 * Language: pt

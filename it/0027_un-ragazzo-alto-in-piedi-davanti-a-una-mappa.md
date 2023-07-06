@@ -22,5 +22,5 @@ Un uomo che mostra a un ragazzo come si gioca a basket.
 * License: CC BY
 * Text: LIDA Portugal
 * Illustration: Sunniva Høiby-Øiset
-* Translation: Stacey Saunders
+* Translation: Andrea Ciasca Marra
 * Language: it

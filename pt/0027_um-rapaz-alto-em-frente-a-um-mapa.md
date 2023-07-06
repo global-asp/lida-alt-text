@@ -22,5 +22,5 @@ Um homem mostra a um rapaz como jogar basquetebol.
 * License: CC BY
 * Text: LIDA Portugal
 * Illustration: Sunniva Høiby-Øiset
-* Translation: Stacey Saunders
+* Translation: Elsa Guedes Teixeira, João Caramelo
 * Language: pt

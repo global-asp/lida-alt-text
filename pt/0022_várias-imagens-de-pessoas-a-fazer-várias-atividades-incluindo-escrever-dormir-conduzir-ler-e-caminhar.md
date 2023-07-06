@@ -31,5 +31,5 @@ Várias imagens de pessoas a fazer diversas atividades, incluindo escrever, dorm
 * License: CC BY
 * Text: Espen Stranger-Johannessen
 * Illustration: Frida Sofie Schønsberg
-* Translation: Stacey Saunders
+* Translation: Elsa Guedes Teixeira, João Caramelo
 * Language: pt

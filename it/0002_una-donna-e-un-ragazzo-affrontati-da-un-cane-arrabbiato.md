@@ -34,5 +34,5 @@ Immagine a due pannelli di un giocatore di calcio che cerca di segnare ma non ci
 * License: CC BY-NC-SA
 * Text: Espen Stranger-Johannessen
 * Illustration: Aakanee
-* Translation: Espen
+* Translation: Andrea Ciasca Marra
 * Language: it

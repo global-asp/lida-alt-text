@@ -31,5 +31,5 @@ Uma imagem em dois painéis de duas famílias.
 * License: CC BY
 * Text: LIDA Norge
 * Illustration: Sara Dorthea Johannesen
-* Translation: Stacey Saunders
+* Translation: Elsa Guedes Teixeira, João Caramelo
 * Language: pt

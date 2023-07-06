@@ -28,5 +28,5 @@ Tre uomini in piedi con le braccia in aria e sorridenti davanti a un'immagine de
 * License: CC BY
 * Text: LIDA Italia
 * Illustration: Billie Cejka Risnes
-* Translation: Stacey Saunders
+* Translation: Andrea Ciasca Marra
 * Language: it

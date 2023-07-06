@@ -25,5 +25,5 @@ Um rapaz e duas raparigas a dançar.
 * License: CC BY
 * Text: Espen Stranger-Johannessen
 * Illustration: Sara Rumen Krotev
-* Translation: Stacey Saunders
+* Translation: Elsa Guedes Teixeira, João Caramelo
 * Language: pt

@@ -25,5 +25,5 @@ Un uomo e una donna che cucinano.
 * License: CC BY
 * Text: Espen Stranger-Johannessen
 * Illustration: Sara Sahar Haidari
-* Translation: Stacey Saunders
+* Translation: Andrea Ciasca Marra
 * Language: it

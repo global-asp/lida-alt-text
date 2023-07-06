@@ -28,5 +28,5 @@ Uma mulher a rir-se.
 * License: CC BY
 * Text: Espen Stranger-Johannessen
 * Illustration: Selma Buer Hanstad
-* Translation: Stacey Saunders
+* Translation: Elsa Guedes Teixeira, João Caramelo
 * Language: pt
