@@ -31,7 +31,7 @@ Qualcuno che spegne la TV.
 Un uomo che dorme nel letto.
 
 ##
-Un uomo che dorme a letto e sogna.
+Un uomo che dorme nel letto e sogna.
 
 ##
 * License: CC BY-NC-SA

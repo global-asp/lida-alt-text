@@ -22,7 +22,7 @@ Un uomo seduto a una scrivania che studia.
 Un uomo seduto alla scrivania che studia con un orologio alla parete.
 
 ##
-Un uomo che insegna agli angoli.
+Un uomo che insegna geometria.
 
 ##
 Un uomo che insegna a una ragazza seduta alla scrivania.

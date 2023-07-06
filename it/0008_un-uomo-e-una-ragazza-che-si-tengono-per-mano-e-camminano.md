@@ -4,10 +4,10 @@
 Un uomo e una ragazza che si tengono per mano mentre camminano.
 
 ##
-Un uomo che tiene per mano una ragazza indica un caffè.
+Un uomo che tiene per mano una ragazza indica un bar.
 
 ##
-Un uomo e una ragazza che entrano in un caffè.
+Un uomo e una ragazza che entrano in un bar.
 
 ##
 Un uomo seduto al tavolo con una ragazza ordina un caffè.
@@ -40,7 +40,7 @@ Un uomo seduto al tavolo con una ragazza che parla al cameriere.
 Un uomo che dà dei soldi al cameriere.
 
 ##
-Un uomo e una ragazza che escono da un caffè.
+Un uomo e una ragazza che escono da un bar.
 
 ##
 * License: CC BY-NC-SA

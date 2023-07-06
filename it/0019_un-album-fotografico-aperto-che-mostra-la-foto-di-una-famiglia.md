@@ -16,10 +16,10 @@ Un uomo che abbraccia la moglie.
 Un uomo che tiene in braccio i suoi due figli.
 
 ##
-Un ragazzo che alza le cinque dita.
+Un ragazzo che alza cinque dita.
 
 ##
-Una ragazza che alza le due dita.
+Una ragazza che alza due dita.
 
 ##
 * License: CC BY

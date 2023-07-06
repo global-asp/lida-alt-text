@@ -13,10 +13,10 @@ Due donne che si salutano e camminano l'una verso l'altra.
 Due donne che pagano alla biglietteria.
 
 ##
-Due donne che comprano un secchio di popcorn.
+Due donne che comprano una scatola di popcorn.
 
 ##
-Un uomo che porge a una donna due bottiglie e un'altra donna che tiene un secchio di popcorn.
+Un uomo che porge a una donna due bottiglie e un'altra donna che tiene una scatola di popcorn.
 
 ##
 Due donne con bottiglie e popcorn in mano e un uomo che guarda i loro biglietti.

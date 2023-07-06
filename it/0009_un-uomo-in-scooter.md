@@ -4,13 +4,13 @@
 Un uomo in scooter.
 
 ##
-Un uomo in scooter in una pozzanghera.
+Un uomo che guida lo scooter in una pozzanghera.
 
 ##
 Un uomo che cade dallo scooter.
 
 ##
-Un uomo disteso sulla strada e persone che si precipitano verso di lui.
+Un uomo disteso sulla strada e alcune persone che si precipitano verso di lui.
 
 ##
 Una donna che chiama un'ambulanza.
